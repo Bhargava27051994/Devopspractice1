@@ -1,1 +1,5 @@
 hi this is git practice session by Bhargava.
+
+I am using this text file to tract the git commit status
+
+
